@@ -1,0 +1,20 @@
+2018-03-19 21:03:23,904 DEBUG    Lenovo     I'm debug   
+
+2018-03-19 21:03:23,907 INFO     Lenovo     I'm info    
+
+2018-03-19 21:03:23,908 WARNING  Lenovo     I'm warn    
+
+2018-03-19 21:03:23,911 ERROR    Lenovo     I'm error   
+
+2018-03-19 21:03:23,914 CRITICAL Lenovo     I'm critical
+
+2018-03-19 21:08:10,329 DEBUG    Lenovo     I'm debug   
+
+2018-03-19 21:08:10,332 INFO     Lenovo     I'm info    
+
+2018-03-19 21:08:10,335 WARNING  Lenovo     I'm warn    
+
+2018-03-19 21:08:10,338 ERROR    Lenovo     I'm error   
+
+2018-03-19 21:08:10,339 CRITICAL Lenovo     I'm critical
+
